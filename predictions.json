@@ -1,0 +1,1342 @@
+{
+  "4203": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Alors là, c'est très fort"
+      }
+    ]
+  },
+  "954": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Une aventure certes conventionnelle"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "Le casting ajoute un charme non négligeable"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "10615": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Très mauvais film, c'est pauvre en histoire"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "je peux vous citer le très médiocre le bruit des glaçon"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "Cependant quelques répliques sont bonnes dignent d'un bon Audiard"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "Cependant quelques répliques sont bonnes dignent d'un bon Audiard"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "Cependant quelques répliques sont bonnes dignent d'un bon Audiard"
+      }
+    ]
+  },
+  "9472": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Elle est facile mais je la fais"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "L'humour ne vole pas plus haut que quelques grimaces, quelques pets et moqueries sur les gros"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "Pitié..."
+      }
+    ]
+  },
+  "8581": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Ceux qui ont fait cette daube de film n'ont jamais dû ouvrir un des livres de la saga ou alors ils n'étaient pas équipés pour en comprendre le sens."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "5357": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Parmis ceux-ci je dirais l'apparence de Jesus qui etait plus proche des veritées Bibliques que ce que nous a vehiculer le cinema par exemple."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "L'action est bien presente et cette optique du solda Romain sur cet episode de la vie de Jesus apporte un reguard très intéressant et confirmant la foi Chrétienne."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Je n'ai vu que des points positifs, je ne spoilerais pas :)"
+      }
+    ]
+  },
+  "3903": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Le scénario qui vous met dedans direct"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "l'interprétation est de qualité"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "que du bon dans un film réaliste sur un sujet fort"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "pas de surenchère de la violence pour le spectacle"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "pas de surenchère de la violence pour le spectacle"
+      }
+    ]
+  },
+  "3292": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Une très bonne histoire et une trame simple mais bien ficelée qui nous transporte au cœur de la vie quotidienne"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "Les acteurs jouent bien avec des expressions et des mimiques qui rendent l'action plus visuelle"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "La réalisation est détaillée avec une ambiance calme et apaisante"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "positif",
+        "extrait": "La musique a un rôle important avec un rythme simple et de la mélancolie qui évolue avec la trame de l'histoire"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "positif",
+        "extrait": "La durée est judicieuse, bien que l'action de la vie quotidienne puisse être longue, elle reste agréable à regarder"
+      }
+    ]
+  },
+  "16435": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "histoire super naze"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "seuls points juste de ce navet le jeu de José, et de certains autres acteurs"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "et surtout pas drôle, super mal ficelé"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "pas du tout drôle"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "seul point juste de ce navet le jeu de José, et de certains autres acteurs"
+      }
+    ]
+  },
+  "1207": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Ce volet est plus sombre (qu'est-ce que je peux adorer la bande son..) mais je l'ai trouvé aussi efficace que les deux premiers."
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "1139": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Parfaitement abouti, ce dernier volet conclut parfaitement la saga imaginé il y a bien longtemps par J.R.R Tolkien"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "avec des effets spéciaux plus vrais que nature, des scènes de combats magnifiquement orchestrés"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "3552": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "On essaie des voies scientifiques absurdes et faussement intellectuelles, on passe en boucle des effets spéciaux vraiment pas terribles"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "et tout cela pour une incohérence et une incompréhension totale"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "et tout cela pour une incohérence et une incompréhension totale"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "et tout cela pour une incohérence et une incompréhension totale"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "et tout cela pour une incohérence et une incompréhension totale"
+      }
+    ]
+  },
+  "8409": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Un bon film sur un braquage raté qui dégénère en prise d'otages."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "incarnés par les redoutables Al Pacino (exceptionnel) et John Cazale."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "parvient a éviter toute monotonie et chute de rythme en faisant intervenir de nombreux éléments, foule, médias, humour et hiérarchie policière, tout en ne diabolisant pas les gangsters, incarnés par les redoutables Al Pacino (exceptionnel) et John Cazale."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "La partie d'échec se suit donc avec intérêt jusqu'à la dernière minute."
+      }
+    ]
+  },
+  "8965": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "L'expérience a été totale"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "pour moi, l'expérience a été totale"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "pour moi, l'expérience a été totale"
+      },
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "pour moi, l'expérience a été totale"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "pour moi, l'expérience a été totale"
+      }
+    ]
+  },
+  "19694": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "Des scénarios d'un gore... mais tellement drôles !"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "Ils sont mignons, ils sont tout chous..."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "mais voués malheureusement à d'affreuses souffrances !"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "1004": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "les situations sont convenues, les personnages n'ont aucune profondeur, je ne me suis attaché à aucun."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "ils ne font que picoler des bonnes bouteilles pendant tout le film!"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "Passez votre chemin."
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "L'émotion est totalement absente."
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "Je n'ai pas aime ce film. Pour moi c'est un petit film français sans grand intérêt;"
+      }
+    ]
+  },
+  "7591": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "très bon film"
+      }
+    ]
+  },
+  "16339": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Cette satire sociale en plus d'être drôle est révélatrice des travers de la société et presque 40ans après le film est toujours d'actualité."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "Le film bénéficie d'un tandem d'acteur exceptionnel qui porte le film sur ces épaule à la perfection!"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Le film bénéficie d'un tandem d'acteur exceptionnel qui porte le film sur ces épaule à la perfection!"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "Le film bénéficie d'un tandem d'acteur exceptionnel qui porte le film sur ces épaule à la perfection!"
+      }
+    ]
+  },
+  "8466": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "Film mortel.... ...lement nul"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "Jeu d'acteur... Non en fait on peut même pas dire qu'il y en a."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Réalisation se voulant stylé... Juste se voulant"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "Scènes d'action... Horriblement mauvaises... Par pitié, évitez-vous de vous infliger le supplice de le regarder."
+      }
+    ]
+  },
+  "17455": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Une grosse bouse pondue par un scénariste qui s'imagine en héritier de The Mist du grand Stephen King sans avoir pour autre talent que la faculté de plagier;"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "en prenant soin de laisser les aliens de côté, et surtout finir en queue de poisson sans aucune explication."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "A EVITER"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "A EVITER"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "A EVITER"
+      }
+    ]
+  },
+  "10740": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Le film garde son humour, son rythme."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "Un casting d'enfer, des scènes de foot spectaculaire, d'hommage, il y a trop de bavardages, mais le film garde son humour, son rythme."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Olivier Dahan réalise un superbe film."
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "Un casting d'enfer, des scènes de foot spectaculaire, d'hommage, il y a trop de bavardages, mais le film garde son humour, son rythme."
+      }
+    ]
+  },
+  "237": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Le film s’essouffle au bout d'une heure, les rebondissements manquent cruellement"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "La photo, pourtant très propre"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "La photo, pourtant très propre"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "la musique"
+      }
+    ]
+  },
+  "6074": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Un très bon film."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "J'ai rigolé du début à la fin"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "excellent comédie pleine de gags et de scènes drôles"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "positif",
+        "extrait": "je n’ai pas été déçu du voyage"
+      }
+    ]
+  },
+  "16465": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "Leur comportement sont vraiment puérils et n'apporte rien à la trame du film."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "Les filles ne savent pas ce qu'elles veulent, le conflit social est très mal abordé, et la fin est nulle."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "Leur comportement sont vraiment puérils et n'apporte rien à la trame du film."
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "pas plus de 1h30 de longueur pour un film d'entretien romantique."
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "pas mentionnée dans la critique."
+      }
+    ]
+  },
+  "13217": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "le film présente beaucoup de misère et de problèmes des citoyens là bas"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "Les acteurs sont très bon par contre"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "le film ne suit pas, beaucoup trop long, pour qu'il ne s'y passe que peu de scènes intéressantes"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "le film ne suit pas, beaucoup trop long, pour qu'il ne s'y passe que peu de scènes intéressantes"
+      }
+    ]
+  },
+  "10725": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "La vie que deux hommes vont se faire complémentaire par bien des manières."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "d'immenses acteurs s'il s'en soit"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Un très bon moment de cinéma, vaut largement un 4,5 / 5."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Un très bon moment de cinéma, vaut largement un 4,5 / 5."
+      }
+    ]
+  },
+  "5924": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "Garfield 2 est un sacré navet..."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "acteurs pourris"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "adaptation de BD ratée"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "film pour enfant uniquement !!!"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "pas spécifiqué dans la critique"
+      }
+    ]
+  },
+  "8268": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Un film à la mise en scène forte, au scénario touchant et aux acteurs brillants!"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "Un film qui accepte de s'abandonner à son propos plus qu'un quelconque indigènes!"
+      }
+    ]
+  },
+  "13053": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Je l'avais déjà trouvé médiocre."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "A fuir... à grands pas!"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "c'est du vide sidéral"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "les dialogues sonnent faux"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "Je n'ai pas pu tenir plus longtemps."
+      }
+    ]
+  },
+  "3895": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "l'histoire de manipulation et de prise de conscience apporte énormément de bien à ce film"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "n'importe quel aspect n'est pas mentionné"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "n'importe quel aspect n'est pas mentionné"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "n'importe quel aspect n'est pas mentionné"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "n'importe quel aspect n'est pas mentionné"
+      }
+    ]
+  },
+  "3512": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Voilà ce que je pourrais dire pour ce long-métrage bien barbare et sanglant intitulé 'Rage'"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "voilà ce que je pourrais dire pour ce long-métrage bien barbare et sanglant intitulé 'Rage'"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "mais aussi une histoire particulièrement prenante ainsi qu'une interprétation totalement habiter de la part de son casting."
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "mais aussi une histoire particulièrement prenante ainsi qu'une interprétation totalement habiter de la part de son casting."
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "positif",
+        "extrait": "Voilà ce que je pourrais dire pour ce long-métrage bien barbare et sanglant intitulé 'Rage'"
+      }
+    ]
+  },
+  "14751": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Le scénario me parait plus étoffé"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "Plutôt satisfaisant dans l'ensemble"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "Un second volet qui part sur les mêmes bases humoristiques que le premier film malgré un nombre de références à la culture populaire un peu inférieur en quantité"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "Un second volet qui part sur les mêmes bases humoristiques que le premier film malgré un nombre de références à la culture populaire un peu inférieur en quantité"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "Un second volet qui part sur les mêmes bases humoristiques que le premier film malgré un nombre de références à la culture populaire un peu inférieur en quantité"
+      }
+    ]
+  },
+  "3682": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "Sally Potter nous montre dans ce film dramatique les atrocités de la guerre avec les conflit et les propos racistes quelle peut entrainé."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "avec une belle brochette d'acteurs tant pour les premiers que les second rôles ce film est a voir."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "13947": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "n'a rien de difficile vu l' immondité du N°3"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "rien n'aide a croire en ce monde de vampire et de Lycan"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "Décors, aux costumes, en passant par les effets spéciaux et les cadrages."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "le métrage"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "Le système d'éclairage stroboscopique omniprésent venant s'ajouter a la couche de médiocrité du métrage."
+      }
+    ]
+  },
+  "13344": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "c'est chiant, incompréhensible, prétentieux, pénible et insupportable"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "Peut à la limite intéresser les adeptes des prétendues sciences occultes orientales (s'ils ne s'endorment pas avant la fin)"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "c'est chiant, incompréhensible, prétentieux, pénible et insupportable"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "n/a"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "n/a"
+      }
+    ]
+  },
+  "10229": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Il feint de dépeindre la communauté gay pour ne s'en approcher qu'armé d'un bâton"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "le touchant à travers un sac plastique opaque et puant"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "1660": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Un film plat"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "l'action qui devait être au premier plan est raté"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "A éviter !!!"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "A éviter !!!"
+      }
+    ]
+  },
+  "17860": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Il est vraiment très bien presque comme Beethoven c'est un peu imiter d'hailleur y a la musique de Beethoven un peu changer."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": ""
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Un très chouette film! Il est vraiment très bien presque comme Beethoven c'est un peu imiter d'hailleur y a la musique de Beethoven un peu changer."
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "positif",
+        "extrait": "Un très chouette film! Il est vraiment très bien presque comme Beethoven c'est un peu imiter d'hailleur y a la musique de Beethoven un peu changer."
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      }
+    ]
+  },
+  "4784": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Titré Wicked Little Things, en France les distributeurs sont racoleurs et ont opté pour Zombies, du grand n’importe quoi !"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "L’intrigue de base est inintéressante, l’ensemble est quant à lui plompé par une mise en scène calamiteuse, trop de plans sombres, on ne distingue rien et quant aux pseudo zombies, on est plus peiné que apeuré !"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "L’intrigue de base est inintéressante, l’ensemble est quant à lui plompé par une mise en scène calamiteuse, trop de plans sombres, on ne distingue rien et quant aux pseudo zombies, on est plus peiné que apeuré !"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "L’intrigue de base est inintéressante, l’ensemble est quant à lui plompé par une mise en scène calamiteuse, trop de plans sombres, on ne distingue rien et quant aux pseudo zombies, on est plus peiné que apeuré !"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "L’intrigue de base est inintéressante, l’ensemble est quant à lui plompé par une mise en scène calamiteuse, trop de plans sombres, on ne distingue rien et quant aux pseudo zombies, on est plus peiné que apeuré !"
+      }
+    ]
+  },
+  "14697": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Un film magnifique et émouvant"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "Ce film mérite très sincèrement sa note"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "Je vous le conseil"
+      }
+    ]
+  },
+  "3006": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Le scénario est redondant ; les scènes se ressemblent et on attend impatiemment la fin pour pouvoir aller voire autre chose."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "Linda Fiorentino est une magnifique femmes !"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": ""
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": ""
+      }
+    ]
+  },
+  "11336": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Des scènes inoubliables qui marquent par leur intelligence, la vision qu'elles donnent d'une situation fragmentée et chaotique, la compréhension enfin, sans explications simplistes ou prise de parti unilatérale, d'une situation qui dépasse aujourd'hui l'Afghanistan."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "A voir absolument."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "A voir absolument."
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "positif",
+        "extrait": "A voir absolument."
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": ""
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "A voir absolument."
+      }
+    ]
+  },
+  "14049": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "L'intrigue se révèle bien trop molle"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "d'un casting plus qu'honorable"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "on décroche assez rapidement"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": "Les quelques fantaisies, type le serveur chinois, restent trop limitées pour inverser la tendance globale"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "ne décolle jamais"
+      }
+    ]
+  },
+  "7354": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Des bonnes idées dans ce film"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": "avoir étiré sur deux heures"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "le réalisateur aurait pu couper largement une demi heure et se concentrer sur les scènes les plus intéressantes pour travailler la technique"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "le réalisateur aurait pu couper largement une demi heure et se concentrer sur les scènes les plus intéressantes pour travailler la technique"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "le réalisateur aurait pu couper largement une demi heure et se concentrer sur les scènes les plus intéressantes pour travailler la technique"
+      }
+    ]
+  },
+  "2618": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "un scénario de merde"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "pas rire sauf les gros beaufs"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "Franchement, le cinéma français devrait avoir honte!!"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "negatif",
+        "extrait": ""
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "negatif",
+        "extrait": ""
+      }
+    ]
+  },
+  "1741": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "Un excellents film au casting excellentissime et aux décors absolument bluffant"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "au casting excellentissime"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "les décors absolument bluffant et le tout reste fort puissant et très bien fait"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "la bande son que je n'ai pas trop apprécié, pas assez dans le ton et pas dans l'ambiance"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "rien de particulier dans la duree"
+      }
+    ]
+  },
+  "8772": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "scenario"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "Dupontel"
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "positif",
+        "extrait": "remporté un succès"
+      },
+      {
+        "aspect": "musique",
+        "sentiment": "neutre",
+        "extrait": "neutre"
+      },
+      {
+        "aspect": "duree",
+        "sentiment": "neutre",
+        "extrait": "neutre"
+      }
+    ]
+  },
+  "11192": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "neutre",
+        "extrait": "Un roi, fine lame, chinois, psychopathe, et gay qui fait payer à tout le monde ses déviances."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "neutre",
+        "extrait": "Quelques scènes de cul assez soft, un ou deux litres de sang, une castration, des dessins de maternel, et du rock moyenâgeux."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "neutre",
+        "extrait": "Mais le pire c'est surtout qu'il dure deux longues heures."
+      }
+    ]
+  },
+  "3035": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "negatif",
+        "extrait": "Un film décousu où je me suis perdu dans plusieurs histoires."
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "negatif",
+        "extrait": "Bacri ne semble pas heureux dans ce rôle."
+      },
+      {
+        "aspect": "realisation",
+        "sentiment": "negatif",
+        "extrait": "Un film inutile duquel on sort en ayant l'impression d'avoir perdu 1h40."
+      }
+    ]
+  },
+  "8979": {
+    "valide": true,
+    "aspects": [
+      {
+        "aspect": "scenario",
+        "sentiment": "positif",
+        "extrait": "tous en délicatesse"
+      },
+      {
+        "aspect": "acteurs",
+        "sentiment": "positif",
+        "extrait": "choisir la vie coûte que coûte !Cette femme médecin est une héroïne. Son interprétation est sublime !"
+      }
+    ]
+  }
+}
