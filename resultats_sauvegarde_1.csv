@@ -1,6 +1,0 @@
-﻿aspect,mentions (toi),precision,rappel,F1,sentiment correct
-scenario,50,1.0,1.0,1.0,40/50
-acteurs,30,0.6,0.93,0.73,21/28
-realisation,38,0.74,0.89,0.81,18/34
-musique,6,0.12,0.67,0.21,2/4
-duree,7,0.06,0.29,0.1,2/2
